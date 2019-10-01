@@ -1,2 +1,3 @@
-# hello_World
-Premier repository
+1.times do 
+    puts "Hello Monde!"
+end
